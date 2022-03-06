@@ -1,9 +1,9 @@
 {
-  "name": "Spacebook",
-  "subtitle": "Create a modern notebook to document or explain almost anything.",
+  "name": "Whatt4",
+  "subtitle": "I know now.",
   "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
-  "footer": "Made with ❤ in Minneapolis",
-  "url": "https://spacebook.app",
+  "footer": "Not a cookie collector",
+  "url": "https://whatt4.xyz",
   "githubUrl": "https://github.com/<username>/<repository>",
   "githubBranch": "main",
   "navigationStyle": "vertical",
@@ -13,9 +13,9 @@
   "enableEditButton": true,
   "enableDatestamp": true,
   "enableGithubLink": false,
-  "enableContact": false,
-  "enableNetlifyCMS": false,
-  "enableComments": false,
-  "enableEncryption": false,
+  "enableContact": true,
+  "enableNetlifyCMS": true,
+  "enableComments": true,
+  "enableEncryption": true,
   "enablePageNavigation": true
 }
