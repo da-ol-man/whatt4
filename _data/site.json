@@ -1,5 +1,5 @@
 {
-  "name": "Whatt4",
+  "name": "whatt4",
   "subtitle": "I know now.",
   "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
   "footer": "Not a cookie collector",
@@ -7,7 +7,7 @@
   "githubUrl": "https://github.com/<username>/<repository>",
   "githubBranch": "main",
   "navigationStyle": "vertical",
-  "emoji": "💥",
+  "emoji": "💥 whatt4",
   "enableSearch": true,
   "enableDarkMode": true,
   "enableEditButton": true,
