@@ -1,11 +1,11 @@
 ---
-title: Home.
+title: Hello, world.
 date: Last Modified 
 permalink: /
 eleventyNavigation:
-  key: Home 
+  key: Hello 
   order: 0
-  title: whatt4.
+  title: Hello, world.
 ---
 Welcome the whatt4's spacebook. 
 
